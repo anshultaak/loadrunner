@@ -1,0 +1,13 @@
+Start auto log messages stack - Iteration 7.	[MsgId: MMSG-10545]
+Action.c(326): web_remove/revert_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(328): web_add_header("Access-Control-Request-Headers") started  	[MsgId: MMSG-26355]
+Action.c(328): web_add_header("Access-Control-Request-Headers") was successful  	[MsgId: MMSG-26392]
+Action.c(331): web_add_header("Access-Control-Request-Method") started  	[MsgId: MMSG-26355]
+Action.c(331): web_add_header("Access-Control-Request-Method") was successful  	[MsgId: MMSG-26392]
+Action.c(334): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(334): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(337): web_custom_request("report") started  	[MsgId: MMSG-26355]
+Action.c(337): Error -26609: HTTP Status-Code=503 (Service Unavailable) for "https://aefd.nelreports.net/api/report?cat=bingth"  	[MsgId: MERR-26609]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
