@@ -14,6 +14,7 @@ jobs:
         id: load-runner-info-org
         with: 
           accessToken: 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
+          organization: test
 
       - name: Store output in result files
         run: |
