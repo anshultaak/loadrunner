@@ -13,7 +13,7 @@ jobs:
       - uses: devops-actions/load-runner-info@main
         id: load-runner-info-org
         with: 
-          accessToken: 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
+          accessToken: "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"
           organization: test
 
       - name: Store output in result files
